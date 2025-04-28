@@ -43,4 +43,5 @@ pipeline {
             echo 'Build atau testing gagal!'
         }
     }
+    
 }

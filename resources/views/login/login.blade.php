@@ -42,6 +42,7 @@
                     @endif
                 </span>
             </form>
+            
 
         </div>
         <div class="toggle-container">
